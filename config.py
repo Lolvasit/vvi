@@ -5,4 +5,4 @@ import os
 
 load_dotenv()
 BOT_TOKEN = "5603773593:AAHbn9rpjWHgsnTR_d-oQvgVLs9137UpoIo"
-ADMINS = [5100210341]
+ADMINS = [5100210341,5187541440]
